@@ -10,14 +10,16 @@
     border-radius: 100px;
     width: 300px;
 }
+
 .product-card img {
     width: 100%;
 }
+
 .shop {
     display: flex;
     justify-content: center;
 }
 
 .product-info {
-    
+
 }
