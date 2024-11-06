@@ -1,0 +1,23 @@
+.product-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.product-card {
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 100px;
+    width: 300px;
+}
+.product-card img {
+    width: 100%;
+}
+.shop {
+    display: flex;
+    justify-content: center;
+}
+
+.product-info {
+    
+}
